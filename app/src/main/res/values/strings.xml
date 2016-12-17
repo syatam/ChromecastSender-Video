@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ChromecastSender-Video</string>
-    <string name="video_url">https://s3-us-west-2.amazonaws.com/cast.samples/byte-range/master.m3u8</string>
+    <string name="video_url">https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/DesigningForGoogleCast.m3u8</string>
     <string name="app_id">4F8B3483</string> // Default Player
     <string name="play_video">Play Video</string>
     <string name="pause_video">Pause Video</string>
